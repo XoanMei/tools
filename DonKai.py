@@ -1561,7 +1561,7 @@ def welcome():
       clr()
       
       printf(Center.XCenter(Colorate.Vertical(Colors.green_to_blue, f'''
-             ╦══╩═════════════════════════════════╩══╦
+             
         {random.choice(wms)}
 
                             THÔNG TIN
@@ -1583,7 +1583,7 @@ def welcome():
       clr()
       
       printf(Center.XCenter(Colorate.Vertical(Colors.blue_to_green, f'''
-             ╦══╩═════════════════════════════════╩══╦
+             
           {random.choice(wms)}
 
                             MENU DDOS
@@ -1617,7 +1617,7 @@ def welcome():
     elif 'tool' in cmdl:
         clr()
         printf(Center.XCenter(Colorate.Vertical(Colors.green_to_blue, f'''
-             ╦══╩═════════════════════════════════╩══╦
+             
           {random.choice(wms)}
 
                             CÔNG CỤ

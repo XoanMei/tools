@@ -1535,7 +1535,7 @@ def welcome():
   clr()
   
   printf(Center.XCenter(Colorate.Vertical(Colors.blue_to_green, f'''
-           ╦══╩═════════════════════════════════╩══╦
+           
                       {random.choice(wms)}
                             WELCOME       
            ╩══╦═════════════════════════════════╦══╩
